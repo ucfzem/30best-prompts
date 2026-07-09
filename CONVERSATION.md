@@ -26,5 +26,11 @@ Merge 3 separate HTML files (best-of-1.html, best-of-2.html, best-of-3.html) int
 - GitHub Pages: https://ucfzem.github.io/30best-prompts/
 - Served from `gh-pages` branch
 
+### Works Page Update
+- Added "30 Best Prompts" (🏆) entry to locked section of works page
+- Placed right after "500 Prompts IA" entry for logical grouping
+- Repo: https://github.com/ucfzem/ucfzem.github.io
+- Works page: https://ucfzem-works.vercel.app/works/
+
 ## Token Note
 Token `[REDACTED]` was used for git pushes and API calls. Should be revoked.
